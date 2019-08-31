@@ -37,3 +37,15 @@ git push
 ```
 to write changes to repository
 
+
+- How to amend the latest commit
+
+```
+git commit -a -s
+```
+
+do your changes, then push force:
+
+```
+git push --force
+```
