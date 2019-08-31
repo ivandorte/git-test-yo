@@ -7,6 +7,18 @@
 
 **I'm learning git**
 
+- How to configure
+
+```
+git config --global user.name mygitname
+git config --global user.email mymail@com
+
+git config --global core.editor nano
+```
+
+- [Markdown reference](https://guides.github.com/features/mastering-markdown/)
+
+- Base commands
 
 ```
 git clone repolink
