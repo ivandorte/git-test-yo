@@ -66,14 +66,28 @@ git push --force
 
 Add SSH key to Github account: https://docs.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
+```
 git clone git@github.com:ivandorte/git-test-yo.git
+```
 
+```
+cd TO_DIRECTORY
+```
+
+```
 git checkout -b NEW_BRANCH_NAME
+```
 
 do your changes and push to origin:
 
+```
 git add .
+```
 
+```
 git commit -a -s
+```
 
+```
 git push origin NEW_BRANCH_NAME
+```
