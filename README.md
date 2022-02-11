@@ -52,15 +52,19 @@ to write changes to repository
 
 - How to amend the latest commit
 
+Do your changes then modify the most recent commit using amend option...
 ```
-git commit -a -s
+git commit -a -s --amend
 ```
 
-do your changes, then push force:
+...then push force:
 
 ```
 git push --force
 ```
+
+PS: Don't amend public commits, i.e. commit that other developers have based their work on. This is a confusing situation for developers to be in and it’s complicated to recover from.
+
 
 ### contribute to other repositories
 
