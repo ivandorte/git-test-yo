@@ -1,3 +1,9 @@
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
+[![RussianWarship](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
+Source: 
+[StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/AddBanner.md)
 # git-test-yo
 
 ![jambalaya](https://raw.githubusercontent.com/ivandorte/git-test-yo/master/avatar.png) 
